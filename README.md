@@ -1,16 +1,25 @@
-## Hi there 👋
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![NextJS](https://img.shields.io/badge/next.js-6DA55F?style=for-the-badge&logo=next.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-hotpink.svg?style=for-the-badge&logo=Jest&logoColor=white) 
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-<!--
-**HrachBeqejyan/HrachBeqejyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🔗 Links:
+- Project Repository: [BoomForm-Builder](https://github.com/BoomTech-LLC/BoomForm-Builder.git)
+- Live Editor: [BoomForm Editor](https://editor.boomform.com/)
 
-Here are some ideas to get you started:
+# 💫 About Me:
+I am a hardworking, motivated, and punctual individual who is always willing to learn more and develop new skills. I am able to work in teams and easily adapt to all challenging situations. I am dedicated, organized, and responsible, ready for new challenges and opportunities. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a front-end engineer, I have expertise in ReactJS, TypeScript, Redux/Saga, and Jest. I am passionate about my job and enjoy staying up to date with the latest technologies in the industry. In my free time, I enjoy playing computer games, listening to music, and playing the guitar. I also like going on walks and enjoying the outdoors.
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=HrachBeqejyan&icon=1&color=6)](https://visitcount.itsvg.in)
