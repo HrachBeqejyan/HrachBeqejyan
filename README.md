@@ -18,7 +18,7 @@
 # 💫 About Me:
 I am a hardworking, motivated, and punctual individual who is always willing to learn more and develop new skills. I am able to work in teams and easily adapt to all challenging situations. I am dedicated, organized, and responsible, ready for new challenges and opportunities. 
 
-As a front-end engineer, I have expertise in ReactJS, TypeScript, Redux/Saga, and Jest. I am passionate about my job and enjoy staying up to date with the latest technologies in the industry. In my free time, I enjoy playing computer games, listening to music, and playing the guitar. I also like going on walks and enjoying the outdoors.
+As a front-end engineer, I have expertise in ReactJS, TypeScript, Redux/Saga, and Jest. I am passionate about my job and enjoy staying up to date with the latest technologies in the industry.
 
 
 ---
