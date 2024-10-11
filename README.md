@@ -12,8 +12,8 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 # 🔗 Links:
-- Project Repository: [BoomForm-Builder](https://github.com/BoomTech-LLC/BoomForm-Builder.git)
-- Live Editor: [BoomForm Editor](https://editor.boomform.com/)
+- Repository I contributed to: [BoomForm-Builder](https://github.com/BoomTech-LLC/BoomForm-Builder.git)
+- Live Editor I worked on: [BoomForm Editor](https://editor.boomform.com/)
 
 # 💫 About Me:
 I am a hardworking, motivated, and punctual individual who is always willing to learn more and develop new skills. I am able to work in teams and easily adapt to all challenging situations. I am dedicated, organized, and responsible, ready for new challenges and opportunities. 
